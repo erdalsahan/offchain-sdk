@@ -1,5 +1,5 @@
 # offchain-sdk
-A framework for building off-chain services for EVM chains.
+A framework for building off-chain services for EVM chains. 
 
 ## 🚧 WARNING: UNDER CONSTRUCTION 🚧
 
